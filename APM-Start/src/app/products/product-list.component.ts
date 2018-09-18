@@ -73,14 +73,14 @@ export class ProductListComponent implements OnInit {
           "price": 35.95,
           "starRating": 4.6,
           "imageUrl": "https://openclipart.org/image/300px/svg_to_png/120337/xbox-controller_01.png"
-        }
+        },
         {
           "productId": 11,
           "productName": "Wife",
           "productCode": "GMG-9999",
           "releaseDate": "November 5, 1976",
           "description": "Better half",
-          "price": "infinity",
+          "price": 9999999999999.99,
           "starRating": 5.0,
           "imageUrl": "./assets/images/63995_438011861271_5103075_n.jpg"
         }        
